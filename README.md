@@ -1,7 +1,5 @@
 ###  Hi there , I'm Nguyen Van Hung 👋
 
-
-- 🔭 I’m currently studying on FPT University
 - 🌱 I’m currently learning C# , Javascript
 - 👯 I’m looking to collaborate with C# .Net Developer
 - 💬 Ask me about anything , I'm glad to help.
